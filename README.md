@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 All of my projects are available at https://raghulxander.github.io/<br><br>💬 Ask me about React, Javascript, Css, Layouts<br><br>📫 How to reach me raghuldpi95@gmail.com<br>
+👨‍💻 All of my projects are available at https://RaghulXender.github.io/<br><br>💬 Ask me about React, Javascript, Css, Layouts<br><br>📫 How to reach me raghuldpi95@gmail.com<br>
 
 
 # 💻 Tech Stack:
